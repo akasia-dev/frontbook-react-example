@@ -1,2 +1,2 @@
 # frontbook-react-example
-Frontbook reaction example (empty project)
+Frontbook react example (empty project)

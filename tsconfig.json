@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "jsx": "react-jsx",
+    "paths": {
+      "component/*": ["component/*"]
+    },
+    "importHelpers": false,
+    "sourceMap": false,
+    "declaration": false,
+    "inlineSourceMap": false,
+    "noImplicitAny": false,
+    "target": "es5",
+    "module": "commonjs",
+    "types": ["node"],
+    "lib": ["es5", "es6", "dom"],
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["./test"]
+}
