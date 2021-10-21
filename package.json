@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "frontbook-react": "^1.1.10"
+    "frontbook-react": "^1.1.14"
   }
 }
