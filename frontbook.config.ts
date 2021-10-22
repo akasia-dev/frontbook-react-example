@@ -11,6 +11,12 @@ export default {
   },
 
   port: 5000,
+  publicServePaths: ["./public"],
+  componentFolderName: "component",
+  ignoreComponents: [],
+  disablePreactInjection: false,
+  disableHMR: false,
+
   webpack: {
     // TODO You can fill out the webpack settings you want here.
   },

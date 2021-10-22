@@ -13,6 +13,6 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "frontbook-react": "^1.1.4"
+    "frontbook-react": "^1.1.29"
   }
 }
