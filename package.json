@@ -4,9 +4,10 @@
   "description": "Frontbook react example (empty project)",
   "browser": "true",
   "scripts": {
-    "dev": "frontbook-react dev",
-    "export": "frontbook-react export",
-    "watch": "frontbook-react watch",
+    "start": "frontbook-react dev",
+    "dev": "npx prestart && frontbook-react dev",
+    "export": "npx prestart && frontbook-react export",
+    "watch": "npx prestart && frontbook-react watch",
     "prestart": "npx prestart"
   },
   "keywords": [],
