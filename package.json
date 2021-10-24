@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "frontbook-react dev",
     "export": "frontbook-react export",
-    "watch": "frontbook-react watch"
+    "watch": "frontbook-react watch",
+    "prestart": "npx prestart"
   },
   "keywords": [],
   "author": "",
